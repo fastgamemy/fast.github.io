@@ -1,2 +1,2 @@
-# fast.github.io
-qWEr
+# htmlacademy.github.io
+Мой первый хостинг
